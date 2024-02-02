@@ -1,0 +1,44 @@
+@media only screen and (max-width: 600px) {
+a {
+    color: orange;
+  }
+  
+  p {
+    font-family: Georgia, serif;
+    color: lightpink;
+  }
+  table, th, td {
+    border: 1px solid;
+  }
+  ul{
+    margin-bottom: 15px; 
+  }
+  li {
+    list-style-type: circle;
+  }
+  h1 {
+    font-family: Georgia, serif;
+    color: lightblue;
+  }
+  span{
+    font-weight: bolder;
+    font-style: oblique;
+  }
+  div{
+  background-color: lightblue; 
+  padding: 10px;
+  border: 5px solid lightpink; 
+  border-radius: 5px; 
+  margin-bottom: 10px; 
+  font-size: x-small;
+  }
+
+  label {
+    font-weight: normal;
+    color: lightblue;
+  }
+    .container {
+      width: 100%;
+      padding: 10px;
+    }
+}
